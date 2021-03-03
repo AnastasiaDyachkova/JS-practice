@@ -19,11 +19,7 @@ function greeting(){
 
 document.getElementById('ready').addEventListener('click', greeting);
 document.getElementById('client').innerHTML = localStorage.getItem('user');
-//  if('client'!='Пользователь'){
-//  	let form = document.getElementById('form');
-//  		form.remove();
-//  		document.getElementById('result').innerHTML = '<b>Привет,  ' + localStorage.getItem('user') + '!</b>';
-//  }
+
 
 
 
