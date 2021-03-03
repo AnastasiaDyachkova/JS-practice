@@ -15,7 +15,6 @@ function max(){
 		document.getElementById('error').innerHTML ='';	
 	}
 
-	
-
 }
+document.getElementById('max').addEventListener('click', max);
 
