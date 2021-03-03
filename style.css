@@ -121,6 +121,9 @@ input[type=text]:focus{
 	border:2px solid #422828;
 }
 
+#ready{
+margin-top:10px;
+}
 
 #form{
 	display: flex;
