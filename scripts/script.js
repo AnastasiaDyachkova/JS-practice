@@ -19,6 +19,7 @@ function greeting(){
 
 
 document.getElementById('client').innerHTML = localStorage.getItem('user');
+document.getElementById('ready').addEventListener('click', greeting);
 
 
 
