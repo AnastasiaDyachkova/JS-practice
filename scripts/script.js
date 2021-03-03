@@ -10,7 +10,8 @@ function greeting(){
 		let res = '<b>Привет,  ' + localStorage.getItem('user') + '!</b>';
 		document.getElementById('result').innerHTML = res;
 		document.getElementById('client').innerHTML = localStorage.getItem('user');
-		
+		let form = document.getElementById('form');
+		form.remove();
 
 	}
 	
