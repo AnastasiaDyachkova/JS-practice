@@ -6,7 +6,7 @@ function area(){
 	if(isNaN(s)==true){
 		document.getElementById('res').innerHTML = 'Неверные данные, введите числа';
 	}
-	else if(s<0){
+	else if(h<0||l<0){
 		document.getElementById('res').innerHTML = 'Площадь не может быть отрицательной';
 	}
 	else if((h=='')||(l=='')){
