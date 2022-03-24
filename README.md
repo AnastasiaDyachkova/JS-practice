@@ -1,3 +1,2 @@
 # JS-practice
-https://AnastasiaDyachkova.github.io
-https://AnastasiaDyachkova.github.io/lab_2
+https://anastasiadyachkova.github.io/SSTU-Task-1-2/
